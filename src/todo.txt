@@ -1,0 +1,44 @@
+Batch 3 (27 Fed 2020, PM)
+
+[✅] What's the job title? => 3 chars to show dropdown
+[✅‍] What level of education is needed? (optional) => remove "X"
+[✅‍] Post posting modal content as separate page
+[✅] Model preview inner-scroll (especially on mobile)
+[❌] Finalize padding
+
+====================================
+Batch 2 (27 Feb 2020, AM)
+[✅‍] 1st page progress bar line color to be the same as the 2nd page
+[❌] job title dropdown fix
+[✅] salary currency dropdown z-index
+==> Dependency to JOB_DESC_CARD z-index
+[✅] remove “min, max, medium” text from the salary insight
+[✅] salary insight message dissapears when max salary exceeds 4000, it should not happen
+[✅] remove JD insight for now, no interaction is needed
+[✅] fix “Guide me write it” options
+[✅] remove “Latitude: -, Longitude: -” from work location --> CSS force if needed
+[✅] update pills for work location
+[✅] pills: don’t change “+” to “check” icon on hover state, inverting color is enough
+[✅] add “Optional” to the 2nd page title --> Step 2: Attract (Optional)
+[✅] remove the extra “x” from Skills and Edu level field, individual “x” for each item in these fields is good enough
+[✅] posting date calender style seems to be broken, it’s falling in the same line as its caption is
+[✅] remove the “How do you prefer candidates to apply?” part, not our focus for this research
+[✅] preview screens: both mobile and desktop should be scrollable inside the modal
+[✅] create a simple success page after click post, please refer to the success page in Figma
+[❌] overall padding and spacings (this one we can fix together)
+
+========================================================
+Batch 1 (24 Feb 2020)
+[✅] Stepper with number
+[✅] Mimic Navtop
+[❌] At least 3 chars before job title auto-suggest dropdown active
+[✅] exp => text field
+[✅] spec, no "x"
+[✅] Salary => currency dropdown (#)
+[✅] "Why does this" remove temporary
+[✅] Right salary tips follow mockup design
+[⭐✅] React-compound value mapping
+[✅] Anchor to top on page 2
+[✅] Progress bar with tick for completed page (#)
+[✅] Calendar => start with today, end with 30 days later
+[⭐✅] Work location pills

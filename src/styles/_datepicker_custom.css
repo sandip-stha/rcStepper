@@ -1,0 +1,10 @@
+.DateInput_input {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.DateInput_input__focused {
+  border-color: #17a2b8;
+}
+.DayPickerKeyboardShortcuts_show__bottomRight::before {
+  border-right-color: #17a2b8;
+}
